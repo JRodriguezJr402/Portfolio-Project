@@ -7,3 +7,12 @@ header {
     padding: 1px;
     display: block;
 }
+
+div.portimg img {
+    border-radius: 50%;
+    display: block;
+}
+
+ul {
+    list-style: none;
+}
