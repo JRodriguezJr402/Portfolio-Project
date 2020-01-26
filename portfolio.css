@@ -16,3 +16,10 @@ div.portimg img {
 ul {
     list-style: none;
 }
+
+.row {
+    width: 100%;
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+}
